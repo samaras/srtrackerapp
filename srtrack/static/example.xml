@@ -1,0 +1,18 @@
+<MTI version="1.0" time="1368015476548108" numTargets="2" frameWidth="1920" frameHeight="1080">
+  <TargetPack id="2">
+    <centroid pixel="994103" />
+    <bounds topLeft="932634" bottomRight="1019103" />
+    <confidence val="27" />
+    <percentageTargetPixels val="23" />
+    <geoLocation lat="36.15900011" lon="-115.17205183" />
+    <geoBounds topLeftLat="36.15904739" topLeftLon="-115.17209369" bottomRightLat="36.15897989" bottomRightLon="-115.17199140" />
+  </TargetPack>
+  <TargetPack id="3">
+    <centroid pixel="999384" />
+    <bounds topLeft="987844" bottomRight="1016682" />
+    <confidence val="136" />
+    <percentageTargetPixels val="48" />
+    <geoLocation lat="36.15899561" lon="-115.17276155" />
+    <geoBounds topLeftLat="36.15900389" topLeftLon="-115.17279044" bottomRightLat="36.15898139" bottomRightLon="-115.17273411" />
+  </TargetPack>
+</MTI>
